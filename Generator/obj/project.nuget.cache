@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "tOuyvh2uVNnyDkzWoZCLIUvC+cNbc6mmurMKU1oQ+n8VO86EMWrfRolNmCbCoIVPFds9D77HAHjQ1fxpOi9Qsw==",
+  "success": true,
+  "projectFilePath": "D:\\GameDev\\glslang-Beef.Generator\\Generator\\glslang-Beef.Generator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rober\\.nuget\\packages\\clangsharp\\10.0.0-beta\\clangsharp.10.0.0-beta.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\cppast\\0.8.0\\cppast.0.8.0.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\libclang\\10.0.0\\libclang.10.0.0.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\libclang.runtime.win-x64\\10.0.0\\libclang.runtime.win-x64.10.0.0.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\libclangsharp\\10.0.0-beta1\\libclangsharp.10.0.0-beta1.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\libclangsharp.runtime.win-x64\\10.0.0-beta1\\libclangsharp.runtime.win-x64.10.0.0-beta1.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.3\\microsoft.netcore.app.runtime.win-x64.6.0.3.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.3\\microsoft.aspnetcore.app.runtime.win-x64.6.0.3.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.3\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
