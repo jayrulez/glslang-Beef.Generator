@@ -1,3 +1,6 @@
 [submodule "glslang"]
 	path = glslang
 	url = https://github.com/KhronosGroup/glslang.git
+[submodule "glslang-Beef"]
+	path = glslang-Beef
+	url = https://github.com/jayrulez/glslang-Beef.git
