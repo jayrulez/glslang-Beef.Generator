@@ -7,7 +7,7 @@ namespace glslang_Beef.Generator
     public class Program
     {
         private static string glslangSourceDir = "../../../../../glslang";
-        private static string OutputDir = "../../../../../glslang-Beef/glslang-Beef/src/Generated";
+        private static string OutputDir = "../../../../../glslang-Beef/src/Generated";
         private static string ProjectNamespace = "glslang_Beef";
 
         public static int Main(string[] args)
